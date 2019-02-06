@@ -14,6 +14,7 @@ namespace OOP_Introduction
     {
       studentNumber = "U1234";
       lastName = "Doe";
+
     }
 
     /// <summary>
